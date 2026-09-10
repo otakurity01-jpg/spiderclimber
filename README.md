@@ -1,4 +1,5 @@
 Climb all the way up. Keep your Flow alive. Become the highest scorer.
+Play here https://otakurity01-jpg.github.io/spiderclimber/
 
 Spider Climber is a fast-paced vertical arcade platformer where every landing, web swing, pickup, and near-miss counts. Bounce across a cyberpunk skyline, avoid aerial drones, collect web cells and rocket boosts, and build your score through precision, timing, and momentum.
 
